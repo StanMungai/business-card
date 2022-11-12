@@ -1,0 +1,31 @@
+body {
+  text-align: center;
+}
+
+img {
+  width: 175px;
+}
+
+h3:hover, p:hover, h4:hover {
+  font-size: larger;
+}
+
+
+.card {
+  width: 400px;
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  /* gap: 20px; */
+  justify-content: space-around;
+  justify-items: center; 
+  align-items: center;
+  background-color: #b7b7a4;
+  color: #000814;
+  /* background-color: #ecdbd1; */
+  border-bottom: 10px solid #a5a58d;
+  box-shadow: 3px 5px 3px #6b705c;
+}
+
+
+
